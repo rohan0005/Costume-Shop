@@ -1,0 +1,5 @@
+Cop Custume,Cart max,$15,26
+Formal Suite,Mega plex,$14.5,30
+Fairy Costume,Dollar Smart,$18,24
+Thor Costume,Marvel INC,$19,12
+Ironman Costume,DC Comics,$25,10
